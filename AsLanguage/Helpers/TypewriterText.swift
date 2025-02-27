@@ -17,8 +17,6 @@ struct TypewriterText: View {
 
     var body: some View {
         Text(displayedText)
-            .font(.largeTitle)
-            .bold()
             .onReceive(timer) { _ in
                 if charIndex < text.count {
                     let index = text.index(text.startIndex, offsetBy: charIndex)

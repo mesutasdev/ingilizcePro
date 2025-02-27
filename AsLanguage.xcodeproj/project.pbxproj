@@ -128,6 +128,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				tr,
+				Base,
 			);
 			mainGroup = C500CCDD2CE6B26C000F3EAA;
 			minimizedProjectReferenceProxies = 1;
@@ -290,7 +291,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 11;
+				CURRENT_PROJECT_VERSION = 12;
 				DEVELOPMENT_ASSET_PATHS = "\"AsLanguage/Preview Content\"";
 				DEVELOPMENT_TEAM = 477K4S3LV2;
 				ENABLE_PREVIEWS = YES;
@@ -308,7 +309,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2024.28;
+				MARKETING_VERSION = 2024.8;
 				PRODUCT_BUNDLE_IDENTIFIER = com.mesutasdev.AsLanguage.AsLanguage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -323,7 +324,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 11;
+				CURRENT_PROJECT_VERSION = 12;
 				DEVELOPMENT_ASSET_PATHS = "\"AsLanguage/Preview Content\"";
 				DEVELOPMENT_TEAM = 477K4S3LV2;
 				ENABLE_PREVIEWS = YES;
@@ -341,7 +342,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2024.28;
+				MARKETING_VERSION = 2024.8;
 				PRODUCT_BUNDLE_IDENTIFIER = com.mesutasdev.AsLanguage.AsLanguage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;

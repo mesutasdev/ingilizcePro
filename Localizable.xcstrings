@@ -1,13 +1,47 @@
 {
   "sourceLanguage" : "tr",
   "strings" : {
-    "Focus Next - Buradan İndir" : {
+    "%lld" : {
+
+    },
+    "🔉   Sesli Dinle   🇺🇸" : {
+
+    },
+    "Categories" : {
+
+    },
+    "Hızlı" : {
+
+    },
+    "Kelime %lld / %lld" : {
+      "localizations" : {
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Kelime %1$lld / %2$lld"
+          }
+        }
+      }
+    },
+    "Konuşarak İngilizceni Geliştir! " : {
+
+    },
+    "Öğrenildi" : {
+
+    },
+    "Öğrenilmedi" : {
 
     },
     "Önceki" : {
 
     },
+    "Ses Hızı: %@" : {
+
+    },
     "Sonraki" : {
+
+    },
+    "Yavaş" : {
 
     }
   },
