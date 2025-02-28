@@ -47,7 +47,7 @@ struct CategorySelectionView: View {
         NavigationLink(destination: destination) {
             ZStack {
                 Rectangle()
-                    .fill(LinearGradient(gradient: Gradient(colors: [.blue, .green]), startPoint: .top, endPoint: .bottom))
+                    .fill(LinearGradient(gradient: Gradient(colors: [.blue, .blue]), startPoint: .top, endPoint: .bottom))
                     .frame(width: 170, height: 130)
                     .cornerRadius(20)
                     .shadow(radius: 5)
