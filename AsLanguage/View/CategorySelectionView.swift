@@ -48,8 +48,9 @@ struct CategorySelectionView: View {
             ZStack {
                 Rectangle()
                     .fill(LinearGradient(gradient: Gradient(colors: [.blue, .blue]), startPoint: .top, endPoint: .bottom))
-                    .frame(width: 170, height: 130)
+                    .frame(width: UIScreen.main.bounds.width / 2.3, height: UIScreen.main.bounds.width / 2.3)
                     .cornerRadius(20)
+                
                     .shadow(radius: 5)
                 
                 VStack {
